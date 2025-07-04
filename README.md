@@ -36,4 +36,4 @@ Frontend Developer
 
 ---
 
-![Project Screenshot](cover.png)
+![Project Screenshot](cover2.png)
